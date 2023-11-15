@@ -1863,6 +1863,7 @@ min-height: 40px;
     top: 0 !important;
     color: #000 !important;
     align-items: start;
+    overflow-y: auto;
  
     padding-top: 20px
   }
